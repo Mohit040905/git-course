@@ -1,1 +1,1 @@
-﻿# git-course demo day 1
+﻿# git-course demo day 2
